@@ -1,0 +1,223 @@
+.Container{
+    background-color: rgb(255, 239, 241);
+    margin-left: 170px;
+    margin-top:50px;
+    margin-bottom: 50px;
+    height: 800px;
+    width: 1000px;
+}
+
+.merge{
+    display: flex;
+}
+
+.image img{
+    height: 30px;
+    width: 30px;
+    padding-top: 20px;
+    margin-left: 50px;
+}
+
+.heading{
+    font-family: sans-serif;
+    font-size: xx-small;
+    padding-top: 10px;
+    margin-left: 10px;
+}
+
+.navbar{
+    display: flex;
+    font-family: sans-serif;
+    color: grey;
+    font-weight: bold;
+    font-size: small;
+}
+
+.home{
+    margin-left: 150px;
+    padding-top: 10px;
+    color: orange;
+}
+
+.members,.blog,.privacy,.contact{
+    margin-left: 30px;
+    padding-top: 10px;
+}
+
+.members:hover{
+    color: orange;
+}
+
+.blog:hover{
+    color: orange;
+}
+.privacy:hover{
+    color: orange;
+}
+.contact:hover{
+    color: orange;
+}
+
+.login{
+    margin-left: 100px;
+    padding-top: 10px;
+}
+
+.register{
+    margin-left: 50px;
+    padding: 10px 20px;
+    color: white;
+    background-color: orange;
+    border-radius: 20px;
+}
+
+.para{
+    margin-left: 50px;
+    padding-top: 70px;
+    color: orange;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: small;
+}
+
+.para1{
+    margin-left: 50px;
+    font-weight: bold;
+    font-size: 40px;
+    font-family: sans-serif;
+}
+
+.para2{
+    color: grey;
+    margin-left: 50px;
+    font-family: sans-serif;
+    word-spacing: 2px;
+    font-weight: bold;
+}
+
+.section{
+    display: flex;
+}
+
+.couple img{
+    margin-left: 60px;
+    height: 400px;
+    width: 400px;
+}
+
+input{
+    margin-left: 50px;
+    border-radius: 40px;
+    padding-left: 40px;
+    height: 60px;
+    width: 400px;
+    border: none;
+}
+
+input::placeholder{
+    color: lightgray;
+}
+
+label{
+    position: relative;
+}
+
+button{
+    position: absolute;
+    right: 30px;
+    margin-top: 12px;
+    background-color: orange;
+    border: none;
+    color: white;
+    height: 40px;
+    width: 140px;
+    border-radius: 20px;
+}
+
+.footer{
+    display: flex;
+}
+
+.angela{
+    margin-top: 50px;
+}
+
+.angela input{
+    border-radius: 10px;
+    height: 70px;
+    width: 200px;
+    border: none;
+}
+
+.angela button{
+    border-radius: 10px;
+    top: 7px;
+    height: 35px;
+    width: 65px;
+    border: none;
+}
+
+.male button{
+    color: orange;
+    background-color: white;
+    margin-right: 500px;
+    border-radius: 10px;
+    height: 30px;
+    width: 100px;
+}
+
+.years button{
+    color: white;
+    background-color: orange;
+    margin-right: 380px;
+    border-radius: 10px;
+    height: 30px;
+    width: 100px;
+}
+
+.newyork button{
+    color: orange;
+    background-color: white;
+    margin-right: 260px;
+    border-radius: 10px;
+    height: 30px;
+    width: 100px;
+}
+
+
+.number p{
+    font-weight: bold;
+    font-size: 40px;
+    font-family: sans-serif;
+    margin-left: 50px;
+}
+
+.number1 p{
+    font-weight: bold;
+    font-size: 40px;
+    font-family: sans-serif;
+    margin-left: 50px;
+    color: brown;
+}
+
+.number2 p{
+    font-weight: bold;
+    font-size: 40px;
+    font-family: sans-serif;
+    margin-left: 50px;
+}
+
+.number pre{
+    font-family: sans-serif;
+    margin-left: 50px;
+}
+
+.number1 pre{
+    font-family: sans-serif;
+    margin-left: 50px;
+}
+
+.number2 pre{
+    font-family: sans-serif;
+    margin-left: 50px;
+}
